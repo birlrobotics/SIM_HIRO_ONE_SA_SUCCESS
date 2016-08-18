@@ -1,0 +1,6 @@
+{
+  "name": "SIM_HIRO_ONE_SA_SUCCESS",
+  "tagline": "ata from snap assembly work in simulation with the HIRO Robot. Successful and failed trials are included. Work with belief generation through Bayesian filters and \"Gradient\" threshold optimization also included. This data was used in ICMA/IROS/Humanoids/ROBIO 2012. Location: Tsukuba, Japan. Dates: 2012",
+  "body": "Data from snap assembly work in simulation with the HIRO Robot. Successful and failed trials are included. Work with belief generation through Bayesian filters and \"Gradient\" threshold optimization also included. This data was used in ICMA/IROS/Humanoids/ROBIO 2012. Location: Tsukuba, Japan. Dates: 2012\r\n\r\nThis data contains: Manipulation data. There are two global folders: (i) ./Probability where probabilistic data and results are kept for a Bayesian filter, and (ii) ./gradClassFolder + ./GradientClassification folder.\r\n\r\nThese 4 files are detailed below:\r\n\r\nCurrent Joint Angles (7 DoF) Format: time th1 th2 ... th7\r\nCartPos: EndEffector Cartesian Position Format: time x y z r p y\r\nTorques: Wrench data wrt the tool. No gravity compensation. Format: time Fx Fy Fz Mx My Mz\r\nState: State Transition Time Vector. Format: time",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
