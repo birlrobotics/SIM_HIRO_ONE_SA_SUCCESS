@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : 0.00007
+Max Val   : 0.00111
+Min Val   : -0.00097
+Start     : 0.00000
+Finish    : 3.57500
+Gradient  : -0.00058
+Grad Label: cons  
+
 Iteration : 2
 Average   : -0.02353
 Max Val   : -0.02140
@@ -1214,9 +1223,9 @@ Gradient  : -3.20820
 Grad Label: mneg  
 
 Iteration : 137
-Average   : -0.28085
-Max Val   : -0.26624
-Min Val   : -0.29547
+Average   : -0.27994
+Max Val   : -0.24895
+Min Val   : -0.31093
 Start     : 9.87500
 Finish    : 9.90000
 Gradient  : 1.16911
