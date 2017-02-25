@@ -1,25 +1,8 @@
 # RCBHT
-*/BackUp
-*/Segments
-*/Composites
-*/llbBelief
-*/llBehaviors
-*/hlBehaviors
-*/snapData3
-*/llbehPlot
-*/hlbehPlot
-*/Figures
-
-# Other
-HIRO
-Probability
-Test
-Trial
-Yamanobe-HumanDemo-SA
-gradClassFolder
-GradientClassificationFolder
-AveragePosteriorPlotHIRO
-AveragePosteriorPlot
+Composites/
+Segments/
+hlBehaviors/
+llBehaviors/
 
 # Figures
 *.png
@@ -59,4 +42,3 @@ AveragePosteriorPlot
 
 # Backup
 *.*~
-#*
